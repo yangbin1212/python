@@ -1,2 +1,2 @@
 # python_work
-learning
+python learning
