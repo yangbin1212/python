@@ -1,3 +1,0 @@
-interviewer =['Nancy','lucy','Tony']
-for x in interviewer:
-print(interviewer[x])
